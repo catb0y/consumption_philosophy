@@ -1,4 +1,4 @@
 ---
 ---
 
-# COnsumption Philosophy
+# Consumption Philosophy
