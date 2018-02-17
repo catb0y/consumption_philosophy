@@ -1,4 +1,4 @@
 ---
 ---
 
-# Our Manifesto
+# COnsumption Philosophy
