@@ -1,6 +1,10 @@
 theme: jekyll-theme-cayman
 
-title: Consumption Philosophy 
+title: Consumption Philosophy
 description: We want you to think before you buy.
 
-
+defaults:
+  - scope:
+      path: "assets/imgs"
+    values:
+      image: true
