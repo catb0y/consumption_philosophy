@@ -1,4 +1,4 @@
 ---
 ---
 
-# Consumption Philosophy
+# Our Manifesto
