@@ -1,0 +1,13 @@
+
+.jumbotron{
+  background-color: #eee;
+  background-image: url('../images/marketing.jpg');
+  height:300px;
+  border-bottom: 1px solid #ccc;
+}
+.jumbotron p{
+  text-align: center;
+  font-size: 3.5em;
+  color: #999;
+  line-height: 300px;
+}
