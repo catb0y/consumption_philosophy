@@ -1,4 +1,4 @@
 ---
 ---
 
-# Consumption Philosophy
+# Find the best deals online
